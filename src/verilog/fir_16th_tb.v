@@ -15,7 +15,7 @@ module fir_16th_tb;
   integer i=0;
 
   // DUT
-  fir_filter uut (
+  fir_16th uut (
     .clk(clk),
     .reset(reset),
     .data_in(data_in),
