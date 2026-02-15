@@ -1,1 +1,12 @@
+8th order Filter Coefficients (16-bit signed)
+
+h0 = 16'sd1
+h1 = 16'sd248
+h2 = 16'sd2480
+h3 = 16'sd7941
+h4 = 16'sd11399
+h5 = 16'sd7941
+h6 = 16'sd2480
+h7 = 16'sd248
+h8 = 16'sd1
 
